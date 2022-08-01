@@ -1,6 +1,6 @@
 ### Телеграм бот, который присылает актуальные данные о погоде в областных центрах Республики Беларусь. Если температура изменится, бот об этом сообщит. Данные о погоде запарсены JSON и хранятся в базе данных.
 #### Dependencies: json, telegrambots, slf4j-api, slf4j-simple, emoji-java.
-#### Database: PostgreSQL
+#### Database: PostgreSQL.
 
 ![1](https://user-images.githubusercontent.com/93983025/182145494-4fe3b0e5-132c-43df-a28a-bae13b279eeb.jpg) 
 ### ReplyKeyboardMarkup
